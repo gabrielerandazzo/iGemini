@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "releaseNotes": "first version on git",
+  "version": "1.0.1",
+  "releaseNotes": "fixed language detection issue and url scheme for opening links",
   "updateURL": "https://raw.githubusercontent.com/gabrielerandazzo/iGemini/main/Gemini.shortcut"
 }

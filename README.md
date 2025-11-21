@@ -1,7 +1,7 @@
 # iGemini
 A powerful Apple Shortcut to seamlessly integrate Google Gemini across your entire Apple ecosystem: iOS, iPadOS, macOS, and watchOS. Bring the advanced AI capabilities of Gemini to your daily workflows, activating it from Siri, the Share Sheet (on iPhone/iPad), or directly from your Apple Watch.
 
-## Overview
+## Overview 
 iGemini bridges the gap between **Google Gemini** and **Apple's native ecosystem**, allowing you to interact with Gemini naturally from anywhere on your device — no app switching or browser tabs required.  
 It acts as a lightweight interface that sends your queries to Gemini and returns intelligent, contextual answers right inside the Apple Shortcuts environment.
 
