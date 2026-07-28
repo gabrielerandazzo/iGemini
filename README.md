@@ -18,6 +18,7 @@ Then, download the shortcut from the official repository:
 </p>
 
 
+
 Once downloaded:
 
 1. **Tap on the downloaded file** — it will automatically open the **Shortcuts** app on your device.  
@@ -25,6 +26,18 @@ Once downloaded:
 3. **Enter your Gemini API key** and select your **preferred language** when prompted.  
 **NOTE** THAT THE LANGUAGE STRING IS **KEY SENSITIVE**, eg. for English type "en" **NOT** "En"
 4. iGemini is now ready to use — you can invoke it from **Siri**, the **Share Sheet**, or your **Apple Watch**.
+
+<div align="center">
+
+### Support my work
+
+If you want to support my projects, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/gabrielerandazzo" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
+
+</div>
 
 ### Usage
 
