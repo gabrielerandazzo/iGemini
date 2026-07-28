@@ -23,8 +23,8 @@ Once downloaded:
 
 1. **Tap on the downloaded file** — it will automatically open the **Shortcuts** app on your device.  
 2. **Tap “Add Shortcut”** to import it.  
-3. **Enter your Gemini API key** and select your **preferred language** when prompted.  
-**NOTE** THAT THE LANGUAGE STRING IS **KEY SENSITIVE**, eg. for English type "en" **NOT** "En"
+3. **Enter your Gemini API key** and select your **preferred language** when prompted (`en`, `it`, `de`, `es`).  
+> **NOTE:** Language codes are **CASE SENSITIVE**. Please use lowercase: `en` for English, `it` for Italian, `de` for German, or `es` for Spanish.
 4. iGemini is now ready to use — you can invoke it from **Siri**, the **Share Sheet**, or your **Apple Watch**.
 
 <div align="center">

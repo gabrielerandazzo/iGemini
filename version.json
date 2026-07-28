@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "releaseNotes": "fixed language detection issue and url scheme for opening links",
-  "updateURL": "https://raw.githubusercontent.com/gabrielerandazzo/iGemini/main/Gemini.shortcut"
+    "version": "1.0.2",
+    "releaseNotes": "Added support for German (de) and Spanish (es) languages",
+    "updateURL": "https://raw.githubusercontent.com/gabrielerandazzo/iGemini/main/Gemini.shortcut"
 }
